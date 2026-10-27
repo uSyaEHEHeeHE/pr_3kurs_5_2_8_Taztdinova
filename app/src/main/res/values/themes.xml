@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Recipes" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/green_dark</item>
+        <item name="colorAccent">@color/tomato</item>
+        <item name="android:windowBackground">@color/milk</item>
+    </style>
+</resources>

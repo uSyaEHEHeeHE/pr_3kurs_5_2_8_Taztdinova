@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Поиск рецептов</string>
+    <string name="hello">Поиск рецептов</string>
+    <string name="hint_name">Имя пользователя</string>
+    <string name="hint_pass">Пароль</string>
+    <string name="btn_enter">Войти</string>
+    <string name="search_title">Что приготовить?</string>
+    <string name="hint_query">Блюдо на английском, например pasta</string>
+    <string name="btn_find">Найти</string>
+    <string name="tap_hint">Нажмите на рецепт, чтобы открыть его</string>
+    <string name="btn_my">Мои рецепты</string>
+    <string name="my_title">Мои рецепты</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_save">Сохранить в мои рецепты</string>
+    <string name="hint_comment">Комментарий</string>
+</resources>
